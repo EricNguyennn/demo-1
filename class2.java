@@ -6,3 +6,5 @@ public class class2 {
 
     // branch 2 changed
 }
+
+// create new pull request
